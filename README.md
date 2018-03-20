@@ -1,2 +1,3 @@
 # hello-world
-dum dum tutorial
+smarty tutorial
+I like trivia.
